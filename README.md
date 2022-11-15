@@ -10,7 +10,7 @@
 ##### BIO
 
 - 🏢 I'm currently studying at **Dehradun, India**
-- ⚙️ I use daily: `.cpp` `.js`, `.html`, `.css`, `.svg`, `.c`, `.py`
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.cpp`, `.svg`, `.c`, `.py`
 - 🌍 I'm mostly active within the **Eddie hub Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **development**, **design thinking**
