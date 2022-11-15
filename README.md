@@ -13,5 +13,5 @@
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.cpp`, `.svg`, `.c`, `.py`
 - 🌍 I'm mostly active within the **Eddie hub Community**
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **development**, **design thinking**
+- 💬 Ping me about **development**
 - 📫 Reach me: [twitter.com/Akhilbisht798](https://twitter.com/AkhilBisht798)
