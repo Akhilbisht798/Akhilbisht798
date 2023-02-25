@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 #### I'm a Student in Dehradun, India.
+#### Full Stack Developer MERN stack.
 
 ##### NOW
 
-- ✨ learning react;
+- ✨ Learning data science and AI;
 - :rocket: looking for open source projects to contribute;
 
 ##### BIO
