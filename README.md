@@ -5,7 +5,7 @@
 
 ##### NOW
 
-- ✨ Learning data science and AI;
+- ✨ Learning data science and AI, NextJs;
 - :rocket: looking for open source projects to contribute;
 
 ##### BIO
