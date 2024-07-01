@@ -8,6 +8,11 @@
 - ✨ Learning cloud computing, devops.
 - :rocket: looking for open source projects to contribute;
 
+#### REACH ME
+- [Blogs](https://blogs-teal-pi.vercel.app/)
+- [twitter.com/Akhilbisht798](https://twitter.com/AkhilBisht798)
+- [LinkedIn](https://www.linkedin.com/in/akhilbisht798/)
+
 #### BIO
 
 - 🏢 I'm currently studying at **Dehradun, India**
