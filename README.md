@@ -10,7 +10,7 @@
 - :rocket: looking for open source projects to contribute;
 
 #### REACH ME
-- [twitter.com/Akhilbisht798](https://twitter.com/AkhilBisht798)
+- [twitter.com](https://twitter.com/AkhilBisht798)
 - [LinkedIn](https://www.linkedin.com/in/akhilbisht798/)
 - [Hashnode](https://hashnode.com/@akhilbisht798)
 
