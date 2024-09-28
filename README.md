@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-#### I'm a Student in Dehradun, India.
+#### I'm a Computer Science Student in Dehradun, India.
 #### Full Stack Developer.
 
 #### NOW
 
 - ✨ Working on go, cloud computing.
-- Learning devops, cloud on the go.
+- Learning devops, cloud as I build.
 - :rocket: looking for open source projects to contribute;
 
 #### REACH ME
